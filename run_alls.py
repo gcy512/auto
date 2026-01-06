@@ -19,3 +19,5 @@ if __name__ == '__main__':
     # 生成allure报告
     os.system("allure generate ./reporters/temp -o ./reporters/html --clean")
     sys.exit(exit_code)
+
+print("hello world")
