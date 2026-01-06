@@ -1,0 +1,2 @@
+INFO     auto_mall_test:test_admin_info.py:228 响应状态码: 200
+INFO     auto_mall_test:test_admin_info.py:229 响应内容: {"code":401,"message":"暂未登录或token已经过期","data":null}

@@ -1,0 +1,2 @@
+2026-01-04 16:50:32,903 - auto_mall_test - INFO - 响应状态码: 200
+2026-01-04 16:50:32,904 - auto_mall_test - INFO - 响应内容: {"code":401,"message":"暂未登录或token已经过期","data":null}

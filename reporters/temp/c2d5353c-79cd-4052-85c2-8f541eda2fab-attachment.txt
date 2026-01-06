@@ -1,0 +1,3 @@
+INFO     auto_mall_test:test_admin_info.py:155 响应状态码: 200
+INFO     auto_mall_test:test_admin_info.py:156 响应内容: {"code":200,"message":"操作成功","data":{"pageNum":2,"pageSize":10,"totalPage":1,"total":8,"list":[]}}
+INFO     auto_mall_test:test_admin_info.py:169 第2页返回0条数据

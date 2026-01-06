@@ -1,0 +1,140 @@
+2026-01-03 22:05:54,109 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:05:54,110 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:05:54,110 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:05:54,110 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:05:54,110 - auto_mall_test - DEBUG - 读取的数据行: ['username为空', '{"username": "","password": "macro124"}', '200', '-1', '必填项']
+2026-01-03 22:05:54,111 - auto_mall_test - DEBUG - 读取的数据行: ['password为空', '{"username": "admin","password": ""}', '200', '-1', '必填项']
+2026-01-03 22:06:30,549 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:06:30,549 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:06:30,549 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:06:30,549 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:06:30,549 - auto_mall_test - DEBUG - 读取的数据行: ['username为空', '{"username": "","password": "macro124"}', '200', '-1', '必填项']
+2026-01-03 22:06:30,550 - auto_mall_test - DEBUG - 读取的数据行: ['password为空', '{"username": "admin","password": ""}', '200', '-1', '必填项']
+2026-01-03 22:11:06,447 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:11:06,448 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:11:06,448 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:11:06,448 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:11:06,448 - auto_mall_test - DEBUG - 读取的数据行: ['username为空', '{"username": "","password": "macro124"}', '200', '-1', '必填项']
+2026-01-03 22:11:06,448 - auto_mall_test - DEBUG - 读取的数据行: ['password为空', '{"username": "admin","password": ""}', '200', '-1', '必填项']
+2026-01-03 22:12:17,729 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:12:17,730 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:12:17,730 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:12:17,730 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:12:17,730 - auto_mall_test - DEBUG - 读取的数据行: ['username为空', '{"username": "","password": "macro124"}', '200', '-1', '必填项']
+2026-01-03 22:12:17,730 - auto_mall_test - DEBUG - 读取的数据行: ['password为空', '{"username": "admin","password": ""}', '200', '-1', '必填项']
+2026-01-03 22:12:40,277 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:12:40,277 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:12:40,277 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:12:40,277 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:12:40,277 - auto_mall_test - DEBUG - 读取的数据行: ['username为空', '{"username": "","password": "macro124"}', '200', '-1', '必填项']
+2026-01-03 22:12:40,278 - auto_mall_test - DEBUG - 读取的数据行: ['password为空', '{"username": "admin","password": ""}', '200', '-1', '必填项']
+2026-01-03 22:30:22,905 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:30:22,905 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:30:22,905 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:30:22,906 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:30:22,906 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '-1', 'username']
+2026-01-03 22:30:22,906 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '-1', 'password']
+2026-01-03 22:30:22,906 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '-1', '错误']
+2026-01-03 22:30:22,906 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '-1', '不存在']
+2026-01-03 22:30:22,907 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '-1', 'username']
+2026-01-03 22:30:22,907 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '-1', 'password']
+2026-01-03 22:50:10,380 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:50:10,380 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:50:10,380 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:50:10,380 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:50:10,380 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '-1', 'username']
+2026-01-03 22:50:10,381 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '-1', 'password']
+2026-01-03 22:50:10,382 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '-1', '错误']
+2026-01-03 22:50:10,382 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '-1', '不存在']
+2026-01-03 22:50:10,382 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '-1', 'username']
+2026-01-03 22:50:10,382 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '-1', 'password']
+2026-01-03 22:51:09,369 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:51:09,369 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:51:09,370 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:51:09,370 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:51:09,370 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '-1', 'username']
+2026-01-03 22:51:09,371 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '-1', 'password']
+2026-01-03 22:51:09,371 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '-1', '错误']
+2026-01-03 22:51:09,371 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '-1', '不存在']
+2026-01-03 22:51:09,371 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '-1', 'username']
+2026-01-03 22:51:09,371 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '-1', 'password']
+2026-01-03 22:51:45,476 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:51:45,477 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:51:45,477 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:51:45,477 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:51:45,477 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '-1', 'username']
+2026-01-03 22:51:45,478 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '-1', 'password']
+2026-01-03 22:51:45,478 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '-1', '错误']
+2026-01-03 22:51:45,478 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '-1', '不存在']
+2026-01-03 22:51:45,478 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '-1', 'username']
+2026-01-03 22:51:45,478 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '-1', 'password']
+2026-01-03 22:52:27,174 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:52:27,174 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:52:27,175 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:52:27,175 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '0', '登录']
+2026-01-03 22:52:27,175 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '-1', 'username']
+2026-01-03 22:52:27,175 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '-1', 'password']
+2026-01-03 22:52:27,176 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '-1', '错误']
+2026-01-03 22:52:27,176 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '-1', '不存在']
+2026-01-03 22:52:27,176 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '-1', 'username']
+2026-01-03 22:52:27,176 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '-1', 'password']
+2026-01-03 22:53:24,273 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 22:53:24,273 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 22:53:24,273 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 22:53:24,273 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '200', '成功']
+2026-01-03 22:53:24,273 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '404', 'username']
+2026-01-03 22:53:24,274 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '404', 'password']
+2026-01-03 22:53:24,274 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '500', '不正确']
+2026-01-03 22:53:24,274 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '404', '错误']
+2026-01-03 22:53:24,274 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '404', 'username']
+2026-01-03 22:53:24,274 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '404', 'password']
+2026-01-03 23:11:13,399 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 23:11:13,400 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '200', '成功']
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '404', 'username']
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '404', 'password']
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '500', '不正确']
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '404', '错误']
+2026-01-03 23:11:13,400 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '404', 'username']
+2026-01-03 23:11:13,401 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '404', 'password']
+2026-01-03 23:11:55,506 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 23:11:55,507 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '200', '成功']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '404', 'username']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '404', 'password']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '500', '不正确']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '404', '错误']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '404', 'username']
+2026-01-03 23:11:55,507 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '404', 'password']
+2026-01-03 23:14:16,241 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 23:14:16,242 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 23:14:16,242 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 23:14:16,242 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '200', '成功']
+2026-01-03 23:14:16,242 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '404', 'username']
+2026-01-03 23:14:16,243 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '404', 'password']
+2026-01-03 23:14:16,243 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '500', '不正确']
+2026-01-03 23:14:16,243 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '404', '错误']
+2026-01-03 23:14:16,243 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '404', 'username']
+2026-01-03 23:14:16,243 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '404', 'password']
+2026-01-03 23:14:34,726 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 23:14:34,727 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 23:14:34,727 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 23:14:34,727 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '200', '成功']
+2026-01-03 23:14:34,727 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '404', 'username']
+2026-01-03 23:14:34,728 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '404', 'password']
+2026-01-03 23:14:34,728 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '500', '不正确']
+2026-01-03 23:14:34,728 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '404', '错误']
+2026-01-03 23:14:34,728 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '404', 'username']
+2026-01-03 23:14:34,728 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '404', 'password']
+2026-01-03 23:21:23,139 - auto_mall_test - INFO - 成功加载文件 D:\pycharmworkspace\auto_mall_test\datas\mall登录.xlsx。
+2026-01-03 23:21:23,140 - auto_mall_test - INFO - 使用指定工作表 Sheet1 (编号 1)。
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 表头: ['title', 'login_data', 'zhuangtaima', 'code', 'msg']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['全部参数都正确写登录成功', '{"username": "admin","password": "macro123"}', '200', '200', '成功']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['username为空登录失败', '{"username": "","password": "macro124"}', '200', '404', 'username']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['password为空登录失败', '{"username": "admin","password": ""}', '200', '404', 'password']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "admin","password": "macro1231"}', '200', '500', '不正确']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['username错误登录失败', '{"username": "abmin","password": "macro123"}', '200', '404', '错误']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['username少参登录失败', '{"password": "macro123"}', '200', '404', 'username']
+2026-01-03 23:21:23,140 - auto_mall_test - DEBUG - 读取的数据行: ['password错误登录失败', '{"username": "abmin"}', '200', '404', 'password']

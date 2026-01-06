@@ -1,0 +1,61 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+测试管理员列表接口的分页功能
+:param page_num: 页码
+:param page_size: 每页数量
+","853","测试管理员列表接口-分页查询","test_cases","Sun Jan 04 16:50:30 CST 2026","passed","Sun Jan 04 16:50:31 CST 2026","TestAdminInfo","test_admin_info","",""
+"
+测试模糊查询功能
+注意：/admin/info接口返回的是管理员信息和菜单列表，不包含""测试""关键字
+:param keyword: 查询关键字
+","863","使用token进行模糊查询测试","test_cases","Sun Jan 04 16:50:24 CST 2026","passed","Sun Jan 04 16:50:25 CST 2026","TestAdminInfo","test_admin_info","",""
+"
+测试在管理员信息中搜索功能
+注意：/admin/info接口返回的是管理员信息和菜单列表，通常不包含""测试""关键字
+此测试主要用于验证搜索功能是否正常工作
+","1394","测试在管理员信息中搜索包含'测试'的信息","test_cases","Sun Jan 04 16:50:31 CST 2026","passed","Sun Jan 04 16:50:32 CST 2026","TestAdminInfo","test_admin_info","",""
+"","329","username少参登录失败","test_cases","Sun Jan 04 16:50:34 CST 2026","passed","Sun Jan 04 16:50:35 CST 2026","TestLogin","test_login","",""
+"
+测试管理员列表接口的分页功能
+:param page_num: 页码
+:param page_size: 每页数量
+","761","测试管理员列表接口-分页查询","test_cases","Sun Jan 04 16:50:29 CST 2026","passed","Sun Jan 04 16:50:30 CST 2026","TestAdminInfo","test_admin_info","",""
+"
+测试流程：
+1. 登录获取token
+2. 使用token访问/admin/info接口
+3. 验证返回结果
+","1665","登录获取token后访问管理员信息接口","test_cases","Sun Jan 04 16:50:22 CST 2026","passed","Sun Jan 04 16:50:24 CST 2026","TestAdminInfo","test_admin_info","",""
+"
+测试管理员列表接口，使用关键字""测试""进行模糊查询
+使用接口：/admin/list?pageNum=1&pageSize=10&keyword=测试
+","777","测试管理员列表接口-使用关键字'测试'进行模糊查询","test_cases","Sun Jan 04 16:50:27 CST 2026","passed","Sun Jan 04 16:50:28 CST 2026","TestAdminInfo","test_admin_info","",""
+"","442","password错误登录失败","test_cases","Sun Jan 04 16:50:34 CST 2026","passed","Sun Jan 04 16:50:34 CST 2026","TestLogin","test_login","",""
+"
+测试使用无效token访问接口的情况
+","327","测试token过期或无效的情况","test_cases","Sun Jan 04 16:50:32 CST 2026","passed","Sun Jan 04 16:50:32 CST 2026","TestAdminInfo","test_admin_info","",""
+"
+测试模糊查询功能
+注意：/admin/info接口返回的是管理员信息和菜单列表，不包含""测试""关键字
+:param keyword: 查询关键字
+","811","使用token进行模糊查询测试","test_cases","Sun Jan 04 16:50:25 CST 2026","passed","Sun Jan 04 16:50:26 CST 2026","TestAdminInfo","test_admin_info","",""
+"","351","username错误登录失败","test_cases","Sun Jan 04 16:50:34 CST 2026","passed","Sun Jan 04 16:50:34 CST 2026","TestLogin","test_login","",""
+"","328","password错误登录失败","test_cases","Sun Jan 04 16:50:35 CST 2026","passed","Sun Jan 04 16:50:35 CST 2026","TestLogin","test_login","",""
+"","360","password为空登录失败","test_cases","Sun Jan 04 16:50:33 CST 2026","passed","Sun Jan 04 16:50:34 CST 2026","TestLogin","test_login","",""
+"
+测试模糊查询功能
+注意：/admin/info接口返回的是管理员信息和菜单列表，不包含""测试""关键字
+:param keyword: 查询关键字
+","833","使用token进行模糊查询测试","test_cases","Sun Jan 04 16:50:27 CST 2026","passed","Sun Jan 04 16:50:27 CST 2026","TestAdminInfo","test_admin_info","",""
+"","435","全部参数都正确写登录成功","test_cases","Sun Jan 04 16:50:32 CST 2026","passed","Sun Jan 04 16:50:33 CST 2026","TestLogin","test_login","",""
+"","353","username为空登录失败","test_cases","Sun Jan 04 16:50:33 CST 2026","passed","Sun Jan 04 16:50:33 CST 2026","TestLogin","test_login","",""
+"
+测试模糊查询功能
+注意：/admin/info接口返回的是管理员信息和菜单列表，不包含""测试""关键字
+:param keyword: 查询关键字
+","774","使用token进行模糊查询测试","test_cases","Sun Jan 04 16:50:26 CST 2026","passed","Sun Jan 04 16:50:27 CST 2026","TestAdminInfo","test_admin_info","",""
+"
+测试管理员列表接口的分页功能
+:param page_num: 页码
+:param page_size: 每页数量
+","833","测试管理员列表接口-分页查询","test_cases","Sun Jan 04 16:50:28 CST 2026","passed","Sun Jan 04 16:50:29 CST 2026","TestAdminInfo","test_admin_info","",""
