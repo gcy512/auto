@@ -21,3 +21,4 @@ if __name__ == '__main__':
     sys.exit(exit_code)
 
 print("hello world")
+print('新增代码')
